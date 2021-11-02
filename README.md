@@ -32,4 +32,6 @@ Try 10 real-world programs on NEUZZ. Check setup details at programs/[program na
 ## Contact
 Feel free to send me email about Neuzz. dongdong at cs.columbia.edu
 
+原理图
+![image](https://user-images.githubusercontent.com/29301453/139820212-b827582a-c382-4a0e-a62f-f7c1d0f61aa6.png)
 
